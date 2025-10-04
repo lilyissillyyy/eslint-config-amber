@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-amber",
-	"version": "2.0.4",
+	"version": "2.0.5",
 	"description": "ESLint shareable config.",
 	"main": "index.js",
 	"scripts": {
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dragonfire535/eslint-config-amber.git"
+		"url": "git+https://github.com/lilyissillyyy/eslint-config-amber.git"
 	},
 	"keywords": [
 		"eslint",
@@ -19,19 +19,10 @@
 		"lint",
 		"linter"
 	],
-	"author": "dragonfire535 <danielbodendahl@gmail.com>",
+	"author": "lilyissillyyy <lilyodendahl@gmail.com>",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/dragonfire535/eslint-config-amber/issues"
+		"url": "https://github.com/lilyissillyyy/eslint-config-amber/issues"
 	},
-	"homepage": "https://github.com/dragonfire535/eslint-config-amber#readme",
-	"devDependencies": {
-		"eslint-plugin-json": "^2.1.0"
-	},
-	"eslintConfig": {
-		"extends": "./index.js",
-		"plugins": [
-			"json"
-		]
-	}
+	"homepage": "https://github.com/lilyissillyyy/eslint-config-amber#readme"
 }
